@@ -1,1 +1,1 @@
-talks to computers using code;
+talks to computers in code;
