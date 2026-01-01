@@ -9,15 +9,19 @@
   <a href="mailto:priyanshuknp444@gmail.com" target="_blank">email</a>
 </p>
 
-### **-> tech stack**
+### **→ tech stack**
 
-- typescript | python | rust | react | next.js | node.js | express.js | websocket | postgres | prisma | drizzle | docker | redis | kafka
+- typescript | python | react | next.js | node.js | express.js | websocket | postgres | prisma | drizzle | docker | redis | kafka
 
-### **-> my recent projects**
+### **→ my recent projects**
 
 - **[Exness](https://github.com/pryxnsu/exness-web)** : Trading platform similar to Exness built with Node.js, used WebSocket for real-time data and Redis pub-sub. Users can place orders, close partial/full positions, and set stop-loss/take-profit functionality.
 
-- **[Retriv](https://github.com/pryxnsu/retriv)** : Platform where users can create an AI agent based on their website content and embed that agent into their website. Agent will response based on website content. Built using Nodejs , Nextjs , Redis , QdrantDB.
+- **[Decision](https://github.com/pryxnsu/Decision)** :
+Platform to ask questions, gather opinions, and make better decisions
+  
+
+- **[Retriv](https://github.com/pryxnsu/retriv)** : Platform where users can create an AI agent based on their website content and embed that agent into their website. Agent will response based on website content. Built using Nodejs, Nextjs, Redis and QdrantDB.
 
 - **[Pencil](https://github.com/pryxnsu/pencil)** : Real-time collaborative whiteboard tool where multiple users can join and create rooms, create different types of shapes, use pens, and see cursor positions of every user. Built with React using HTML Canvas and WebSocket for real-time communication.
 
