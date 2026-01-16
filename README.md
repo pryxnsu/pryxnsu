@@ -11,15 +11,17 @@
 
 ### **→ tech stack**
 
-- typescript | python | react | next.js | node.js | express.js | websocket | postgres | prisma | drizzle | docker | redis | kafka
+- typescript | python | react.js | next.js | node.js | express.js | websocket | postgres | prisma | drizzle | docker | redis | kafka | langchain
 
 ### **→ my recent projects**
 
 - **[Exness](https://github.com/pryxnsu/exness-web)** : Trading platform similar to Exness built with Node.js, used WebSocket for real-time data and Redis pub-sub. Users can place orders, close partial/full positions, and set stop-loss/take-profit functionality.
 
+- **[DotPixels](https://github.com/pryxnsu/dotpixels)** :
+Edit your images right in the browser. **Crop, Compress, Convert** without uploading anything to a server
+
 - **[Decision](https://github.com/pryxnsu/Decision)** :
 Platform to ask questions, gather opinions, and make better decisions
-  
 
 - **[Retriv](https://github.com/pryxnsu/retriv)** : Platform where users can create an AI agent based on their website content and embed that agent into their website. Agent will response based on website content. Built using Nodejs, Nextjs, Redis and QdrantDB.
 
